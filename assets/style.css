@@ -1,0 +1,39 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.service{
+    text-align: center;
+    padding-top: 10px;
+}
+.service h3{
+    color:#6EBCDC;
+    margin-bottom: 10px;
+    font-size: 46px;
+    
+}
+.service__text p{
+    font-weight: bold;
+}
+.service__content{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+.service__content article{
+    margin:10px;
+    padding:20px;
+    width:300px;
+}
+.service__content img{
+    width: 100%;
+    height:100px;
+    
+}
+.service__content p {
+    margin-top: 20px;
+    padding:10px;
+    font-weight:normal;
+}
